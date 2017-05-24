@@ -1,0 +1,2 @@
+# lexo
+Lexical sintaxis analizer
