@@ -1,2 +1,2 @@
-# lexo
+# Lexo
 Lexical sintaxis analizer
