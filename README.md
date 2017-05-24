@@ -1,0 +1,2 @@
+# Lexo
+Lexical sintaxis analizer
